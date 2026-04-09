@@ -1,0 +1,7 @@
+Para o funcionamento 100% do codigo, instale as seguintes APIS
+
+https://ollama.com/download
+
+python -m pip install google-generativeai streamlit
+
+python -m pip install flask
